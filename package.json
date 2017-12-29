@@ -1,0 +1,24 @@
+{
+  "name": "botissimo",
+  "version": "1.0.0",
+  "description": "Hacking Day Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/W01fw00d/botissimo.git"
+  },
+  "author": "W01fw00d",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/W01fw00d/botissimo/issues"
+  },
+  "homepage": "https://github.com/W01fw00d/botissimo#readme",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "restify": "^6.3.4"
+  }
+}
